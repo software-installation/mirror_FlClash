@@ -1,5 +1,5 @@
 # .github/workflows/mirror.yml
-name: 
+name: 同步chen08209/FlClash
 
 on:
   schedule:
